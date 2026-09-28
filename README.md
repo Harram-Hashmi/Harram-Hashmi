@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Software Engineer with hand on experience in building websites with frameworks like Django, flask, React &amp; Node.js. Beside this  I have a strong experience in project management and Quality Assurance and due to my that interest I built my FYP totally about on an AI powered project management system and named it IntelliPM.
+Software Engineer with hand on experience in building websites with frameworks like Django, flask, React &amp; Node.js. Beside this  I have a strong experience in project management and Quality Assurance and due to my that interest I built my FYP completely about it, which is IntelliPM - An AI powered project management system helping in task, team and resource allocation along with risk management for Software projects.
 
 🌱 &nbsp;I'm currently learning **AI Automation**  
 👯 &nbsp;I'm looking to collaborate on **Open-source developer tool**  
